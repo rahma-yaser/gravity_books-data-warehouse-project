@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\FactPipline.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\FactPipline.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\FactOrders.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\FactOrders.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimShipMethod.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\DimShipMethod.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimBook.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\DimBook.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimCustomer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\DimCustomer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimOrderStatus.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\DimOrderStatus.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimAuthorBook.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\DimAuthorBook.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimAuthor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{ED4D355E-0914-4CDE-03D4-DD8E3B685D4C}|DWH_Final_Project\\DWH_Final_Project.dtproj|solutionrelative:DWH_Final_Project\\DimAuthor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactPipline.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\FactPipline.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\FactPipline.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\FactPipline.dtsx [Design]",
+              "RelativeToolTip": "DWH_Final_Project\\FactPipline.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-31T19:55:31.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DimOrderStatus.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimOrderStatus.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\DimOrderStatus.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimOrderStatus.dtsx [Design]",
+              "RelativeToolTip": "DWH_Final_Project\\DimOrderStatus.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T15:24:23.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DimBook.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimBook.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\DimBook.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimBook.dtsx [Design]*",
+              "RelativeToolTip": "DWH_Final_Project\\DimBook.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T15:24:18.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DimCustomer.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimCustomer.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\DimCustomer.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimCustomer.dtsx [Design]",
+              "RelativeToolTip": "DWH_Final_Project\\DimCustomer.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T15:24:20.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactOrders.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\FactOrders.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\FactOrders.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\FactOrders.dtsx [Design]*",
+              "RelativeToolTip": "DWH_Final_Project\\FactOrders.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T14:19:59.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DimShipMethod.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimShipMethod.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\DimShipMethod.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimShipMethod.dtsx [Design]*",
+              "RelativeToolTip": "DWH_Final_Project\\DimShipMethod.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T15:24:24.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DimAuthorBook.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimAuthorBook.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\DimAuthorBook.dtsx",
+              "ToolTip": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimAuthorBook.dtsx [Design]",
+              "RelativeToolTip": "DWH_Final_Project\\DimAuthorBook.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T15:36:52.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DimAuthor.dtsx [Design]",
+              "DocumentMoniker": "F:\\2025\\ITI - Data Visualization Track\\Course 12 - Data Warehouse\\Project\\DWH_Final_Project\\DWH_Final_Project\\DimAuthor.dtsx",
+              "RelativeDocumentMoniker": "DWH_Final_Project\\DimAuthor.dtsx",
+              "ToolTip": "E:\\Users\\rahma\\source\\repos\\DWH_Final_Project\\DWH_Final_Project\\DimAuthor.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMxSURBVDhPjVRLTBNRFD3TH62lQEG0BaoRJfJRoxEV48KoiTEaFsrKBS5MXLhzZdzqRqM7ExZujQt36sLEqDHRuPBDooYipSjV0tLyael0ZtrpTDvPO9OxpXzEk9y89\u002B6bd\u002Bbcz3scCLfuPfjY2dVzSJ//C6IkI7mw\u002BOLr6IeRp4/uPzfdVTDGbOYUPZ1tCLS1mKu18f7zJMYmJgckFdyFS9fw6tnDtwKfFs1tgOM4qz6eOD145cC\u002B3vYOXws2OevWtUhsHmpJc9a73c1zKb69dYsvnRezaUngcwYhwWKO/w2r1QqNseb5xfRJr69z2FXf1GVuGaghlJUS5jOFiklyEQW16hNlDT8iMXwLhuCpdztis4kLgijtMo8bqORQR2hGwJMPSXMFnNrfitYGBx6/ixtrgS\u002BAVOHcjgBUtYiXb94a/uWoUagxUqlZkGtsg9TUDtXpKftKQK7BB9bRjd6DB3H8cB/sdrteA/NkFatzyDRwBQmcTFZUTB8jXx42tQCP04Gmxoayfw3UEDa67ejrcGOPt4i9XhWtTg0elw19gXrsaS6ir1GF11FCnhSvh5oc7vS7DVuJ4RMBUOSQVWpusmgyXd5YA//dNjqZQEZ1Qa5I7WN3kHeDHP5MSHj4ZqZiY7\u002BzKGlAngh0ZdkCQ4ZMVDhSTGQbFYWnOzUekxBcsmOMLJmzGhUWqDa8QVZWKCkMrER/oWKtxOqQOQtYnQvM6YbC2UjNX2XAkgyksgrSvEztZYen2Q9/595eb2D/SWza3q8fryG0UAROiwZXJgHXUhwlUayQZYgsk2eIz2XxayaDnL0NvQNnMXj55vX\u002Bobuvse3iiM5RU\u002BXugAdXW1x03ShnFJFGbwcJMsLUR8oIVMppx2YXho75sUh/ic9JSEZTJsMyhaHpWbwf/Y6x72FMTIYxPRXG1MQEpsaDmA0HkZkOQo6NQ8vOGd9bKH/5nIrUUh6CZF4AgqFQUYr4EgxjIbV\u002Bf/2FrWkb6rbvRjQhYirKI/SbRzJVeb3KhJHIj/HFrMyi0Zjh/Be2dh31K5wvwKQ8IgkBv4g4vlAlXN1IG8F35gbaz982V1VIkU8I3TnyByuphR8gq7UuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-12T15:24:16.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
